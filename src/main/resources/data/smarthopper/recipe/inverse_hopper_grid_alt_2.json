@@ -1,5 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
+  "group": "inverse_hopper_grid_recipes",
   "category": "misc",
   "key": {
     "A": { "item": "smarthopper:inverse_raw_grid" },

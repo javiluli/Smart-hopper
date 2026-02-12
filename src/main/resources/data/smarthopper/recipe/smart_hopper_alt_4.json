@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "smart_hopper_recipes",
+  "category": "redstone",
+  "ingredients": [
+    { "item": "minecraft:hopper" },
+    { "item": "smarthopper:inverse_raw_grid" }
+  ],
+  "result": {
+    "id": "smarthopper:smart_hopper",
+    "count": 1
+  }
+}

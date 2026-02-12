@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smart_hopper_recipes",
+  "category": "redstone",
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "C": { "tag": "forge:chests/wooden" },
+    "R": { "item": "smarthopper:inverse_raw_grid" }
+  },
+  "pattern": ["IRI", "ICI", " I "],
+  "result": {
+    "id": "smarthopper:smart_hopper",
+    "count": 1
+  }
+}

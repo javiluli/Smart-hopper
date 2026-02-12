@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "inverse_hopper_grid_recipes",
+  "category": "misc",
+  "key": {
+    "H": { "item": "smarthopper:hopper_grid" },
+    "D": { "item": "minecraft:black_dye" }
+  },
+  "pattern": [" D ", "DHD", " D "],
+  "result": {
+    "id": "smarthopper:inverse_hopper_grid",
+    "count": 1
+  }
+}
