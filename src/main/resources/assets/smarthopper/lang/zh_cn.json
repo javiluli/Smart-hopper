@@ -1,0 +1,12 @@
+{
+  "item.smarthopper.raw_grid": "线网",
+  "item.smarthopper.hopper_grid": "过滤网格",
+  "block.smarthopper.smart_hopper": "智能漏斗",
+  "itemGroup.smarthopper_tab": "智能漏斗",
+  "container.smarthopper.grid_title": "过滤器设置",
+  "tooltip.smarthopper.filtering": "正在过滤: ",
+  "tooltip.smarthopper.empty": "空过滤器",
+  "tooltip.smarthopper.info": "§7右键点击进行配置",
+  "message.smarthopper.grid_installed": "§a网格已安装",
+  "message.smarthopper.grid_removed": "§e网格已移除"
+}

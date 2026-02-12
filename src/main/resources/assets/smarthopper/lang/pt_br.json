@@ -1,0 +1,12 @@
+{
+  "item.smarthopper.raw_grid": "Malha de Linha",
+  "item.smarthopper.hopper_grid": "Grade de Filtragem",
+  "block.smarthopper.smart_hopper": "Funil Inteligente",
+  "itemGroup.smarthopper_tab": "Smart Hopper",
+  "container.smarthopper.grid_title": "Configuração do Filtro",
+  "tooltip.smarthopper.filtering": "Filtrando: ",
+  "tooltip.smarthopper.empty": "Filtro vazio",
+  "tooltip.smarthopper.info": "§7Clique direito para configurar",
+  "message.smarthopper.grid_installed": "§aGrade instalada",
+  "message.smarthopper.grid_removed": "§eGrade removida"
+}

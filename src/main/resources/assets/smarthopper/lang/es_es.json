@@ -1,0 +1,14 @@
+{
+  "item.smarthopper.raw_grid": "Malla de Hilo",
+  "item.smarthopper.hopper_grid": "Rejilla de Filtrado",
+  "block.smarthopper.smart_hopper": "Tolva Inteligente",
+  "itemGroup.smarthopper_tab": "Smart Hopper",
+  "container.smarthopper.grid_title": "Configuración del Filtro",
+  "tooltip.smarthopper.filtering": "Filtrando: ",
+  "tooltip.smarthopper.empty": "Filtro vacío",
+  "tooltip.smarthopper.info": "§7Haz click derecho para configurar",
+  "tooltip.smarthopper.how_to_use": "§8Instala esta rejilla en una Tolva Inteligente",
+  "message.smarthopper.grid_installed": "§aRejilla instalada correctamente",
+  "message.smarthopper.grid_removed": "§eRejilla retirada",
+  "message.smarthopper.no_filter": "§cLa rejilla no tiene un filtro asignado"
+}

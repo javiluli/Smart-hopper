@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "smarthopper:item/inverse_hopper_grid"
+  }
+}

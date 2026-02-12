@@ -1,0 +1,16 @@
+{
+  "item.smarthopper.raw_grid": "Raw grid",
+  "item.smarthopper.inverse_raw_grid": "Inverse raw grid",
+  "item.smarthopper.hopper_grid": "Filter Grid",
+  "item.smarthopper.inverse_hopper_grid": "Inverse filter Grid",
+  "block.smarthopper.smart_hopper": "Smart Hopper",
+  "itemGroup.smarthopper_tab": "Smart Hopper",
+  "container.smarthopper.grid_title": "Filter Configuration",
+  "tooltip.smarthopper.filtering": "Filtering: ",
+  "tooltip.smarthopper.empty": "Empty filter",
+  "tooltip.smarthopper.info": "§7Right-click to configure",
+  "tooltip.smarthopper.how_to_use": "§8Install this grid into a Smart Hopper",
+  "message.smarthopper.grid_installed": "§aGrid successfully installed",
+  "message.smarthopper.grid_removed": "§eGrid removed",
+  "message.smarthopper.no_filter": "§cThe grid has no assigned filter"
+}

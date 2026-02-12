@@ -1,0 +1,12 @@
+{
+  "item.smarthopper.raw_grid": "Fadennetz",
+  "item.smarthopper.hopper_grid": "Filtergitter",
+  "block.smarthopper.smart_hopper": "Intelligenter Trichter",
+  "itemGroup.smarthopper_tab": "Smart Hopper",
+  "container.smarthopper.grid_title": "Filtereinstellungen",
+  "tooltip.smarthopper.filtering": "Filtert: ",
+  "tooltip.smarthopper.empty": "Filter leer",
+  "tooltip.smarthopper.info": "§7Rechtsklick zum Konfigurieren",
+  "message.smarthopper.grid_installed": "§aGitter installiert",
+  "message.smarthopper.grid_removed": "§eGitter entfernt"
+}

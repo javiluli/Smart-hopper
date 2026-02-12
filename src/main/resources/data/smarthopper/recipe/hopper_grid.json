@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": { "item": "smarthopper:raw_grid" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "W": { "tag": "minecraft:planks" }
+  },
+  "pattern": ["IWI", "WRW", "IWI"],
+  "result": {
+    "id": "smarthopper:hopper_grid",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/hopper_side",
+  "textures": {
+    "particle": "smarthopper:block/smart_hopper_outside",
+    "hopper": "smarthopper:block/smart_hopper_outside",
+    "side": "smarthopper:block/smart_hopper_outside",
+    "outside": "smarthopper:block/smart_hopper_outside",
+    "top": "smarthopper:block/smart_hopper_top",
+    "inside": "smarthopper:block/smart_hopper_inside",
+    "content": "minecraft:block/iron_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": { "item": "smarthopper:raw_grid" },
+    "D": { "item": "minecraft:black_dye" }
+  },
+  "pattern": [" D ", "DGD", " D "],
+  "result": {
+    "id": "smarthopper:inverse_raw_grid",
+    "count": 4
+  }
+}

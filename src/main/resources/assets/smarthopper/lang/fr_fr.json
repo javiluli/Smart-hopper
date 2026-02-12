@@ -1,0 +1,12 @@
+{
+  "item.smarthopper.raw_grid": "Maillage de Ficelle",
+  "item.smarthopper.hopper_grid": "Grille de Filtrage",
+  "block.smarthopper.smart_hopper": "Entonnoir Intelligent",
+  "itemGroup.smarthopper_tab": "Smart Hopper",
+  "container.smarthopper.grid_title": "Configuration du Filtre",
+  "tooltip.smarthopper.filtering": "Filtrage : ",
+  "tooltip.smarthopper.empty": "Filtre vide",
+  "tooltip.smarthopper.info": "§7Clic droit pour configurer",
+  "message.smarthopper.grid_installed": "§aGrille installée",
+  "message.smarthopper.grid_removed": "§eGrille retirée"
+}
