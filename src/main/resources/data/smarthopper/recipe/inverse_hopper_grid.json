@@ -9,6 +9,6 @@
   "pattern": ["IWI", "WAW", "IWI"],
   "result": {
     "id": "smarthopper:inverse_hopper_grid",
-    "count": 2
+    "count": 1
   }
 }
